@@ -1,0 +1,11 @@
+E:\CogitativeSymphony\bin\Debug\CogitativeSymphony.exe.config
+E:\CogitativeSymphony\bin\Debug\CogitativeSymphony.exe
+E:\CogitativeSymphony\bin\Debug\CogitativeSymphony.pdb
+E:\CogitativeSymphony\obj\Debug\CogitativeSymphony.csproj.AssemblyReference.cache
+E:\CogitativeSymphony\obj\Debug\CogitativeSymphony.csproj.SuggestedBindingRedirects.cache
+E:\CogitativeSymphony\obj\Debug\CogitativeSymphony.csproj.CoreCompileInputs.cache
+E:\CogitativeSymphony\obj\Debug\CogitativeSymphony.exe
+E:\CogitativeSymphony\obj\Debug\CogitativeSymphony.pdb
+E:\CogitativeSymphony\bin\Debug\nunit.framework.dll
+E:\CogitativeSymphony\bin\Debug\nunit.framework.xml
+E:\CogitativeSymphony\obj\Debug\CogitativeSymphony.csproj.CopyComplete
